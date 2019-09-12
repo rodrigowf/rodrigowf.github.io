@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[10],{343:function(n,e,t){"use strict";t.r(e);var a=t(0),c=t.n(a),o=t(13),r=t(17),u=t(32),l=t.n(u),p=[{path:"/sistemas/pulsar/",label:"Index",component:Object(r.a)(function(){return t.e(6).then(t.bind(null,338))}),icon:c.a.createElement(l.a,null),exact:!0}];e.default=function(){return c.a.createElement(c.a.Fragment,null,p.map(function(n,e){return c.a.createElement(o.a,{key:e,path:n.path,exact:n.exact,component:n.component})}))}}}]);
+//# sourceMappingURL=10.4ce3b719.chunk.js.map
